@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Grounds of the present war between His Electoral Highnesse Palatine of the Rhine and the Duke of Lorrain expressed in a letter written from Frankendale to a person of quality here in England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42252</idno>
+            <idno type="STC">Wing G2143</idno>
+            <idno type="STC">ESTC R2862</idno>
+            <idno type="EEBO-CITATION">12781757</idno>
+            <idno type="OCLC">ocm 12781757</idno>
+            <idno type="VID">93827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42252)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 983:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Grounds of the present war between His Electoral Highnesse Palatine of the Rhine and the Duke of Lorrain expressed in a letter written from Frankendale to a person of quality here in England.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  IV, --  Duke of Lorraine, 1604-1675.</term>
+               <term>Karl Ludwig, --  Elector Palatine, 1617-1680.</term>
+               <term>Germany --  History --  17th century.</term>
+               <term>Palatinate (Germany) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93827:1" rendition="simple:additions"/>
+            <p>THE GROUNDS Of the preſent WAR Between his Electoral Highneſſe PALATINE OF THE RHINE And the Duke of LORRAIN.</p>
+            <p>Expreſſed in a Letter written from <hi>Frankendale</hi> to a Perſon of quality here in <hi>ENGLAND</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed for <hi>J. S.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:93827:2"/>
+            <pb n="1" facs="tcp:93827:2"/>
+            <head>THE GROUNDS Of the preſent WAR Between his <hi>Electoral Highneſs PALATINE</hi> of the <hi>RHINE,</hi> and the <hi>D<g ref="char:V">Ʋ</g>KE</hi> of <hi>LORRAIN.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F what I hear be true, in <hi>England</hi> you are in the dark about preſent Affairs in theſe Parts, which I wonder at very much, ſeeing the In<g ref="char:EOLhyphen"/>tereſt you ought to take in it, is ſufficient to ſtir your curioſity, and, I believe, to make you concerned in it. If what <hi>Solomon</hi> ſaith be true, <hi>As cold waters to a thirſty Soul, ſo is good newes from a far Country;</hi> it ought to be very acceptable to you if they be good, but moſt uncomfortable when it happens to the contrary; for in this reſpect you muſt deale with others, as you would be dealt by, if you were in the ſame condition, eſpecially being, as you are obliged to it by the two moſt Sacred tyes that are, namely of Religion and of Conſanguinity, whereupon in this caſe doth depend intereſt, which is the preſent God of the World.</p>
+            <p>'Tis a very obvious, yet a true obſervation, that <hi>Ergland</hi> was never in a more flouriſhing condition, then when it hath owned and protected abroad the Proteſtant Intereſt. I will not diſpute whether it be really her Intereſt ſo to do, to unite all the members of ſo potent a Body, and declare her ſelf the Head of it, or a particular reward from God for ſo good an act; but tis moſt certainly ſo, as the happy Raign of Queen <hi>Elizabeth</hi> can teſtifie, ſhe protected <hi>Holland,</hi> and aſſiſted <hi>Henry</hi> the fourth of <hi>France,</hi> and She was loved at home, and feared and reſpected abroad, which Queen <hi>Mary</hi> (who took a contrary courſe) could never obtain. When I mention the Proteſtant Intereſt. I mean not only, when meerly upon the account of Religion, Wars are raiſed againſt Princes, to force them to abjure that which they profeſſe, and embrace anothers (for now by the grace of God that Party is ſo numerous, that the enemies of it dare not openly to own that to be the cauſe of their falling out) but I alſo extend it to the aſſiſtance of thoſe Princes who profeſſe the ſame Religion, in the deſence of their juſt Rights and pretentions.</p>
+            <p>The moſt Noble and Illuſtrious Family of the Counts <hi>Palatines</hi> of the <hi>Rhine</hi> is one of theſe, who hath produced ſome Princes eminent for their Piety and Charity, as up<g ref="char:EOLhyphen"/>on ſeverall occaſions they expreſſed it, aſſiſting abroad thoſe that were unjuſtly per<g ref="char:EOLhyphen"/>ſecuted in their Spiritual, and wronged in their temporal liberties; and within their Dominions giving Sanctuary to thoſe who for Religions ſake were driven out of their
+<pb n="2" facs="tcp:93827:3"/>own countries; ſo that upon this and other accounts it was by the enemies of the Truth, taken notice of to be (as indeed it was) the moſt eminent of the Re<g ref="char:EOLhyphen"/>formed in <hi>Germany,</hi> and therefore all are acquainted how cruelly ſhe was afflicted in the late <hi>German</hi> Wars; and that the loſſe of the battel of <hi>Prague</hi> by that fa<g ref="char:EOLhyphen"/>mily, was a ſatal blow given to the Proteſtant intereſt in thoſe parts, I hope no ra<g ref="char:EOLhyphen"/>tionall man will deny: the conſequences of it were the loſſe which the Proteſtants made of the caſting Vote in the Electoral Colledge, the dividing into two, one of the three they had in it as well as the Electoral Dignity, and that inſtead of ſeven Votes the Proteſtants had four, now of eight they have but three. Hence alſo followed the miſeries which thoſe Perſons of the Royal <hi>Engliſh</hi> blood have undergone, and and the deſolation of that good Land, which in her properity was the Sanctuary of the perſecuted Proteſtants, and a Land of Prayers in her affliction.</p>
+            <p>His Highneſs, the preſent Elector is a perſon who hath been much expoſed to the rage and malice of the enemies of Religion, and his family, having been heretofore, not only driven from his own Houſe and Lands, but alſo without right and Reaſon yea againſt the Laws and conſtitutions of the <hi>Germ in</hi> Empire, wrongfully and forci<g ref="char:EOLhyphen"/>bly kept out till by the mediation of Princes and States, grown jealous of his enemies, they were forced to grant him ſome Conditions, which out of a politick neceſſity he hath been willing to accept, chuſing rather to get one part (though with the loſſe of the other) then to be ſtill deprived of all.</p>
+            <p>But ſince the time he hath been reſtored to part of his States as of his dignity, they have threatned, pickt out Quarrels, and began groundleſs, and uuneceſſary Wars againſt him, as was done of late by the Arch Biſhops, of <hi>Mews, Colen,</hi> the Biſhop of <hi>Spire,</hi> and others their conſederates, out of the antient hatred againſt his Religion and family, and out of a deſire to uſurpe his State, undoe his Subjects, and at laſt to ſtrip him of all; ſo out of an envy to his perſon, becauſe they ſee him ſo eminently tranſcendent above them: indeed I might wonder to ſee that to be hated which deſerves praiſes and admiration, were it not that Scripture tells me how the righte<g ref="char:EOLhyphen"/>ous is an abomination unto the wicked.</p>
+            <p>And, My Lord, That you may the better know the Ground of what I ſay, I ſhall undertake to give you an imperſect character of that Prince who through many croſſes and difficulties hath attained to ſuch a height of perſection, in every Princely quality: and herel need not, to follow the advice of agreat Politician who ſaith, <hi>When thou ſpeakeſt of a Prince, commend him highly, and ſay he is a Perſon of many great Parts, though he hath them not; for, though thou ſayeſt what he i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not, yet thouſheweſt what he <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ght to be.</hi> But when I affirm here that his Electoral Highneſs is an extraoridnary per<g ref="char:EOLhyphen"/>ſon, I ſay nothing but what his Neighbours, ſoe as well as friend, do acknowledge him to be, <hi>to wit,</hi> the braveſt Prince of all theſe parts; and therefore that which ſome of them cannot love, they doe eſteem and admire, for he knows and practiſeth that ſen<g ref="char:EOLhyphen"/>tence of <hi>Socrates, One muſt be indeed, what be wauld be occounted to be.</hi> God and Na<g ref="char:EOLhyphen"/>ture who appointed him to ſuffer and to doe much, have fitted his body for any hard<g ref="char:EOLhyphen"/>ſhip, which being of a middle Stature needs no great diet, nor long ſleep, in both which he is very temperate and far from the exceſſes wherein <hi>Germany</hi> doth abound; he eats not much and though he keeps a very noble and plentifull table, he doth not delight, as to his own diet, in the variety wherein it doth abound, neither is he choice in the ſeveral kinds of meats but all are almoſt alike to him, Wine mixed with Water is his uſual drink, and yet he drinks but ſeldom: he uſeth no Feather-beds, and foure or five hours at the moſt is the time he allows himſelf to be in Bed; neither doth he ſleep all this while, for very often he hath one or other to read Books to him by his bed ſide, and ſometimes he calls for Paper and Ink to write himſelf. All
+<pb n="3" facs="tcp:93827:3"/>his affairs from the Higheſt to the loweſt he takes notice and is the director of; ſo that for certain he ever carryes, all his Council along with him, yet he is very willing and patient to hear what others can ſay upon any matter, but all reſolutions come immediately from him: every Writing which comes from his Secretaries Office he peruſes, and Before he Signes it takes notice of the Orthography and of the very <hi>com<g ref="char:EOLhyphen"/>ma's</hi> that are wanting; and in all this he is undeſatigable, for he enjoys himſelf amidſt the croud of his buſineſs as much as if he had nothing to doe, ſo that when he receives Company, one would think he hath nothing elſe to do but ſtudy how to be civil and oblidging: Yet his affairs are ſo caſie to him, that preſently he dives into and findes the bottom of them, for he hath a quick and pregnant wit, and he is ſo judicious as to unſold that which is really true from that which is but ſeemingly ſo, whereby he ſuffers not his judgment to be ſeduced by ſpecious and plau<g ref="char:EOLhyphen"/>ſible words or pretences. As for his ſoul, I do not believe there is one more noble in all the world, high, conſtant and fixed in his reſolutions, which are good and juſt, he is generous without oſtentation, liberal with choice and without profuſneſs and upon this account merit and vertue do avail with him more then ſavour: ſo that 'tis pitty the extent of his Dominions is not ſuitable to the greatneſs of his abilities to Govern, but he is above the malice of his enemies, who though they have uſurped part of his S;ates, yet could never derogate any thing from his worth, and ſince it is Gods pleaſure he is well contented with his condition, knowing it to be more honour for a Prince to deſerve larger Dominions, and not have them, then to enjoy them and not be qualified for them. In a word, he is temperate at Table, ſweet and civil in Company, rational and ſolid in his diſcourſe, wiſe in Councill, valiant in the Field, Noble and great every where.</p>
+            <p>And ſuch as he is himſelf, ſuch he deſires others ſhould be; therefore his Court is very well modeled, conſiſting of ſelect Perſons, who afford variety, but breed no conſeſion, for in it things are carried on in a hand ſome and orderly manner.</p>
+            <p>I muſt not omit to mention that extraordinary application his Highneſs hath upon Occaſion to Warlike affairs, thoſe rare and regular ſortifications of <hi>Manheim</hi> are moſt, or rather all aſter his direction; and ſince this preſent War broke forth, one would admire to ſee how carefull and active he hath been himſelf, to ſee Proviſion, Ammu<g ref="char:EOLhyphen"/>nition, and Artillery, conveyed to his Camp, to view it, and the fortifications of his places and <hi>ex tempore</hi> to give his directions, ſo fit, ſo judicious, and ſo neceſſary. The very devices of his Guidons, and Colours, with their Motto's, which are ſo witty, and ſo ingenious, are all of his own contrivance, ſo are the ſentences of his me<g ref="char:EOLhyphen"/>dalls. But to be ſhort, he is in his States that which the Soul is to the body, <hi>whole in the whole, and whole in every part of it,</hi> he doth move all and animate it. Words wouldfail me if I went about to exaggerate thoſe vertues. I know to be in him, but I beleive it is better to hold his peace then not to ſpeak enough of it. Your Lord<g ref="char:EOLhyphen"/>ſhip will believe this the more that, you know I have not any dependency upon that Prince, but I think my ſelf obliged to bear record to thoſe qualities I have truly obſerved in him, and I matter not who knows of it.</p>
+            <p>But one thing more I muſt ſay of this Prince, that he remembers himſelf to be of the Royal Engliſh Blood, and therefore every thing which concerns that Nation, is ſo near to him, that I doubt whether the beſt Engliſh man be more tender of the good and honour of <hi>England,</hi> then this prince is, he loves the Language, which he ſpeaks very well, and the Nation too, ſo that tis enough for one to be an Engliſh man, there<g ref="char:EOLhyphen"/>by to get a free acceſſe to his Perſon, and find a civil reception a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Court, as many have had, and have a preſent experience of.</p>
+            <p>Of all this Princes neighbours, te <hi>Duke of Lorrain</hi> hath, been and is ſtill, one of the
+<pb n="4" facs="tcp:93827:4"/>moſt trouble ſome: he hath made himſelf ſo well known to the World, that he ſaves me the trouble of giving you any character of his Perſon. He is of a family which hath heretofore afforded ſo many bloody and cruel perſecutors of the Proteſtants; ſo that upon this account (if he had any Religion at all) he might be thought to be the <hi>Electors</hi> enemy; but he walks upon other principles, and conſidering himſelf to be an undone man, deſpair makes him not to care what miſchief he doth to others; and as the <hi>Palatinate</hi> is a neighbouring Country to his, ſo he hath taken every occaſion to over run it with his Souldiers, who are the <hi>Tartars</hi> of theſe parts: thus not long uſing he joyned with the <hi>Elector</hi> of <hi>Mentz</hi> to Sack and Plunder that poor Country, he uſing Fire and Sword to leave lamentable marks of his cruelty: and as he is a man who neither ſtands to engagements, nor doth performe any promiſes, there is no truſt to be put to any Treaties of peace with him, but one is forced to ſland upon his Guard, and to be at great charges to prevent his attempts and Hoſtilities.</p>
+            <p>Now as the <hi>Palatinate,</hi> is the Country the moſt expoſed to his invaſions, his High<g ref="char:EOLhyphen"/>neſs is very much concerned to watch his deſigns, as to defend his own, ſo to pro<g ref="char:EOLhyphen"/>tect thoſe ſubjects who live under him. A Prince, like a compaſſionate father, being to pity the miſeries of his people, ſo as to make them ceaſe when they riſe from with in, and to prevent them by poſſible and lawfull means if feared from abroad. As Princes may juſtly exact and require the hands and purſes of their ſubjects upon ac<g ref="char:EOLhyphen"/>count of the publick good, ſo Subjects may juſtly expect Protection from their Sove<g ref="char:EOLhyphen"/>raign, when they are oppreſſed by ſtrangers; and as a wiſe Prince is not ſatisfied to remove the will and inclination which his neighbours have to do him wrong, but alſo, if poſſible, and by lawfull meanes, he will hinder them from having the power to hurt him, or take it away from them if they have it; as it is natural to fortifie his Ground againſt the feared overflowings of Sea, an d Rivers, ſo his Electoral High<g ref="char:EOLhyphen"/>neſs of late is wiſely gone about to prevent for the future thoſe deſolations which the <hi>Lorrainers</hi> have heretofore too often cauſed in his Country, leaving the ſuc<g ref="char:EOLhyphen"/>ceſs in the hand of God.</p>
+            <p>When I ſpeak of thoſe meanes which to right themſelves Princes uſe, the queſti<g ref="char:EOLhyphen"/>on is not whether they ought to be lawfull; all (though they had but common ſenſe and reaſon) do affirm it, and every one thinks or at leaſt pretends it, that the meanes he uſes are juſt, but to judge of it aright, one muſt come to particulars, and examine circumſtances; that is good at one time which is bad at another, and fit for one per<g ref="char:EOLhyphen"/>ſon to doe, which is amiſs for another, that is lawfull for a Magiſtrate to do, which may not be allowed to a particular man; every one muſt act within the Sphere of his ſtation, ſo a Judge may condemn a man to die, which another not inveſted of that authority may not doe: and ſometimes meerly upon neceſſity of State ſome mans life is to be ſacrificed to the publick good and ſaſety, for ſo a member is ſometimes cut off to ſave the whole body. Of two Princes who are wronged, often, one will uſe juſtifiable wayes to get ſatisfaction, and the other ſhall take thoſe which are un<g ref="char:EOLhyphen"/>warrantable; nay, the very ſame Prince will ſometimes upon divers occaſions ob<g ref="char:EOLhyphen"/>ſerve a contrariety of meanes, and even in the ſame buſineſs apply both lawfull and unlawfull remedies. And of two Warring Princes, one, as the other, will pretend to be in the right way, yet it is not ſo. I confeſs there are ſome generall rules by which to examine the lawfullneſs or unlaw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ullneſs of thoſe meanes, as are the Laws of God and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ature, and the particular conſtitutions of Nations and Countries: In a word on<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ought to conſult juſtice and reaſon: I know an aggreſſor will never want pre<g ref="char:EOLhyphen"/>tences to palliate his ambition, injuſtice, hatred, deſire of revenge, and the like, which judicious and rational perſons, will find out and condemn. But I believe that on the other ſide, none may deny, that a Prince, to right himſelf of wrongs al<g ref="char:EOLhyphen"/>ready
+<pb n="5" facs="tcp:93827:4"/>ready ſuffered, and to prevent that for the future the ſame be not done to himſelf or his people after he hath tryed all peaceable ways to obtain it, and they have been ineffectuall, in ſuch a caſe, by the laws of God and Men he is impowered and by his place and duty obliged to draw his Sword and (if he ſees that to be a probable way to get ſatisfaction) uſe it in the deſence of himſelf and of his people: and this is now the caſe of the Prince <hi>Palatine.</hi>
+            </p>
+            <p>And that the meanes which he hath uſed are lawfull and warrantable it will ap<g ref="char:EOLhyphen"/>pear from the grounds of his late proceeding. The Duke of <hi>Lorrain,</hi> who engaged himſelf ſo far in the <hi>German</hi> Wars, ſeized upon ſome places of the Empire, namely <hi>Homburg,</hi> and <hi>Landſtull,</hi> which are doors to let him into the <hi>Palatinate;</hi> theſe places the Duke, by an order of the Empire, was to reſtore, and receive a ſum of moneyes, in con<g ref="char:EOLhyphen"/>ſideration of his charges; the moneyes were offered him, which he refuſed to take, whereupon, ſeeing he made is clearly appear thereby that he was reſolved to keep a footing in <hi>Germany,</hi> hereafter, and upon occaſion to trouble the peace thereof, the Imperial Chamber at <hi>Spire</hi> impowered his Electoral Highneſs <hi>Palatine</hi> of the <hi>Rhine,</hi> in the moſt concerned Prince, to uſe all fit and poſſible meanes of taking thoſe places from the <hi>Lorrainers</hi> hands; after the atchievment of which the <hi>Marqueſs</hi> of <hi>Baden</hi> Preſident of the Diet, and he of <hi>Durlack,</hi> came a purpoſe to <hi>Frankenſtall</hi> to congratulate with the Prince for his ſucceſſes. And one of the Earls of <hi>Naſſaw,</hi> the owner of thoſe places, made over his rights and pretentions to his Highneſs; ſo that there are two ſtrong grounds for him to act as he hath acted.</p>
+            <p>But that which put him the more earneſtly upon't is the further deſign of the <hi>Lor<g ref="char:EOLhyphen"/>raigner</hi> againſt his States, which clearly appear by the purchaſe he made ſince, of a ſtrong Caſtle named <hi>Holneck</hi> from a Vaſſal of his Electorall Highneſs, which he might not ſell without the conſent and approbation of his Soveraign. This the Prince complained of, and deſired ſatisfaction for, as for things before mentioned; and for performance of things formerly promiſed by vertue of Treaties; but he could never receive any favourable anſwer to his juſt deſires: contrariwiſe new deſignes were daily and underhand carried on to diſturbe the Peace of his Dominions, as I could inſtance in ſome particulars, were it not I am already gone beyond the extent of a Letter.</p>
+            <p>And thoſe juſt grounds of a falling out, were ſo well and ſo perfectly known abroad, that his moſt Chriſtian Majeſty ſent Mr. <hi>D'Aubevil</hi> to take aſſurance from his High<g ref="char:EOLhyphen"/>neſs as he had taken it from the Duke of <hi>Lorrain,</hi> not to act any Hoſſtilities one againſt another, which was eaſily obtained from the Duke, either by the means of that de<g ref="char:EOLhyphen"/>pendency he hath upon <hi>France,</hi> or by a principle he had to ſecure that which he was in poſſeſſion of; His Highneſs alſo gave his word for it in relation to the Dukedome of <hi>Lorrain</hi> in its ancient bounds, but thoſe places which were controverted, muſt needs be ſuppoſed to have been extepted eitherexpreſſedly or implicitly.</p>
+            <p>Wherefore his Highneſs prudently taking his time, beſieged the two Caſtles of <hi>Landſtull</hi> and <hi>Holneck.</hi> and within a fortnight time took them both by compoſition with the loſſe only of two men, and of ſeven or eight wounded; wherein the providence of God hath viſibly ſavored his Armies, every one of theſe Caſtles being in a poſture to have held out much longer time then they did, and till relief had come unto them: nay, in the Town of <hi>Landſtull</hi> 300 <hi>Lorrainers</hi> were ſur<g ref="char:EOLhyphen"/>priſed the very morning they intended to have put a Convoy into the Caſtle, and one <hi>D'Aſpermont</hi> a kinſman of the Dutcheſſes, their commander taken in his bed and carried away priſoner.</p>
+            <p>After this, His Highneſs having left Garriſons in both places, but with orders to demoliſh the fortifications of <hi>Landſtull,</hi> drew his Army toward <hi>Frankenſtall,</hi> and
+<pb n="6" facs="tcp:93827:5" rendition="simple:additions"/>hearing of the march of the <hi>Lorrain</hi> forces he went towards <hi>Bingen</hi> a Town upon the <hi>Rhine</hi> belonging to the Elector of <hi>Mentz,</hi> to oppoſe them, and ſince that time they have ſought with the ſucceſs, which certainly you heard of, and if you were ac<g ref="char:EOLhyphen"/>quainted with the order of the fight, you would grant that his Highneſs hath carried himſelf in't with an admirable conduct, as with an extraordinary valour.</p>
+            <p>Now, my Lord, I leave the reſt to your ſerious conſideration: I do not undertake to ſay what is your intereſt in it, you know it in <hi>England:</hi> and I were overbold if I did preſſe it upon you. However I may tell you how dangerous 'twould prove to let the <hi>Lorrainer</hi> grow too Potent againſt the <hi>Palatine,</hi> eſpecially becauſe the <hi>French</hi> is like to ſucceed him in that Dukedom, and for ought we know doth incourage him to it Upon this occaſion therefore it were a Chriſtian and Princely reſolution to lay by animoſitys if any there be, and aſſiſt the weak if it be poſſible, to prevent further de<g ref="char:EOLhyphen"/>ſolations, and methinks 'twere alſo wiſdome in any one who hath grounds to pre<g ref="char:EOLhyphen"/>tend to that ſucceſſion, to hinder the deſtruction of that which one day may happen to be theirs; and I am fully perſwaded that there is no ſervice the <hi>Engliſh</hi> would go upon ſo heartily as this.</p>
+            <p>But perhaps you will tell me, tis pollicy not to engage, for fear this ſhould be a pre<g ref="char:EOLhyphen"/>ſidont for others to do the like on the contrary ſide, but 'tis a thing very diſputa<g ref="char:EOLhyphen"/>ble whether this be a ſufficient ground to diſſwade you from it, and ſuppoſe I grant it, yet there are ſeveral indirect and by wayes to do it, even as we think the <hi>Lorrainer</hi> hath encouragement from others; at leaſt I know it were neither ho<g ref="char:EOLhyphen"/>nourrable, nor advantagious, to ſuffer that branch of the <hi>Engliſh</hi> Royal blood to be cut off, whilſt it is in your power to prevent it, though I hope it will never come to that.</p>
+            <p>This is my Lord all that I have as preſent to communicate to you, leaving your Statſmen before it be too late to make upon it ſuch ſerious reflections as the matter deſerves: however I hope if you do not aſſiſt ſo excellent a Prince, you will counte<g ref="char:EOLhyphen"/>nance him in the Treaty, which they ſay is ſhortly to begin; or at leaſt pray for a bleſſing upon hs Perſon and continual proſperity of his Armes.</p>
+            <closer>I am <signed>Yours &amp;c.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
